@@ -1,25 +1,14 @@
-Versión 1.2
+Versión 1.3
 
 Funciones implementadas:
 
--Se implemento el menu de administrador
+-Se implemento la opcion de Quejas y reclamos
 
--Se añadio la opcion de añadir residente desde el menu de administrador.
+-Se agrego la opcion de agregar comprobante al seleccionar el metodo de pago de transferencia
 
--Se implemento el apartado de informes desde el menu de administrador.
+-Se implementa la validaacion de comprobante para comprobar que sea legitimo.
 
--Se implemento la opcion de exportaren PDF los informes.
+-Se implemento la ubicacion y horarios de la oficina de administración al seleccionar el metodo de pago de efectivo.
 
-
-Funciones eliminadas:
-
--Se elimino la funcion de abonar saldo
-
-
-Arreglo de bugs:
-
--Se arreglo el bug visual que no actualizaba la deuda en el dashboard
-
--Se validan que las tarjetas existan realmente 
-
+-Se implemento la opcion de descargar comprobante en PDF al finalizar el pago de deudas.
 

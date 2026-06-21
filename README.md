@@ -1,11 +1,8 @@
+# Version 2.0
+# Notas de la versión 2.0
 
-  # Residential Payment Management UI
+Corrección visual general de todas las pantallas del proyecto
 
-  This is a code bundle for Residential Payment Management UI. The original project is available at https://www.figma.com/design/hEy6Dv3KD0OBUOonExNMBG/Residential-Payment-Management-UI.
+Se testearon todas las funciones en donde funcionaron correctamente
 
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+En las ramas estan las versiones anteriores junto a sus notas de versión
